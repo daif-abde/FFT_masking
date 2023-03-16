@@ -4,8 +4,8 @@
 #include <string.h>
 
 typedef uint8_t byte;
-#define SIZE_L 800
-#define SIZE_C 800
+#define SIZE_L 100
+#define SIZE_C 100
 
 typedef struct _matrice{
   byte m[SIZE_L][SIZE_C]; // matrice
